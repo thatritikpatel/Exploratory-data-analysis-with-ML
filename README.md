@@ -19,12 +19,18 @@ EDA is a crucial step in the data analysis process, helping to visualize and und
 ## Datasets
 The analysis in this project is conducted using a variety of datasets sourced from different domains. These datasets include, but are not limited to:
 
-- **Dataset 1:** Descriptive details about the first dataset.
-- **Dataset 2:** Information on the second dataset.
-- **Dataset 3:** Overview of the third dataset.
-- And more.
+- **500 richest people 2021.csv**: Data about the wealthiest individuals in 2021.
+- **Admission_Predict.csv**: Information about university admission predictions.
+- **adult_income.csv**: Data on adult income based on various factors.
+- **brain_stroke.csv**: Dataset related to brain stroke incidents.
+- **fetal_health.csv**: Information on fetal health conditions.
+- **heart_disease_dataset.csv**: Data on heart disease occurrences and related factors.
+- **lung_cancer_dataset.csv**: Data related to lung cancer cases.
+- **movies.csv**: A collection of data about movies and their attributes.
+- **Student_Performance.csv**: Dataset on student performance metrics.
 
 Each dataset contributes unique insights and challenges, helping to create a comprehensive analysis.
+
 
 ## Installation
 To run this project, you need to have Python installed on your machine. You can create a virtual environment and install the required dependencies using the following commands:
